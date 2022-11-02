@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **React JS**
 
-- 👯 I’m looking to collaborate on **Frontend Development project**
+- 👯 I’m looking to collaborate on **Frontend Development Project**
 
 - 🤝 I’m looking for help with **Web Development**
 
